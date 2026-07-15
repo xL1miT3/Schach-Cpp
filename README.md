@@ -30,13 +30,11 @@ No installation is required.
 
 <img width="600" height="500" alt="Screenshot 2026-07-15 151123" src="https://github.com/user-attachments/assets/c7746e3e-1310-40b4-822c-c5d8d2a46d4a" />
 
-### Board Design 1
+### Board Designs
 
-![Board Design 1](images/design1.png)
+<img width="350" height="300" alt="Screenshot 2026-07-15 150513" src="https://github.com/user-attachments/assets/629cedc1-8cbd-46d0-aceb-b9ad297a4834" />
+<img width="1001" height="831" alt="Screenshot 2026-07-15 150603" src="https://github.com/user-attachments/assets/cc833fc7-fec2-43b3-94eb-b44d929c4a02" />
 
-### Board Design 2
-
-![Board Design 2](images/design2.png)
 
 ### Check
 
