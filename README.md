@@ -28,21 +28,19 @@ No installation is required.
 
 ### Game Overview
 
-<img width="600" height="500" alt="Screenshot 2026-07-15 151123" src="https://github.com/user-attachments/assets/c7746e3e-1310-40b4-822c-c5d8d2a46d4a" />
+<img width="500" height="400" alt="Screenshot 2026-07-15 151123" src="https://github.com/user-attachments/assets/c7746e3e-1310-40b4-822c-c5d8d2a46d4a" />
 
 ### Board Designs
 
-<img width="350" height="300" alt="Screenshot 2026-07-15 150513" src="https://github.com/user-attachments/assets/629cedc1-8cbd-46d0-aceb-b9ad297a4834" />
-<img width="1001" height="831" alt="Screenshot 2026-07-15 150603" src="https://github.com/user-attachments/assets/cc833fc7-fec2-43b3-94eb-b44d929c4a02" />
-
+<img width="350" height="300" alt="Screenshot 2026-07-15 150513" src="https://github.com/user-attachments/assets/629cedc1-8cbd-46d0-aceb-b9ad297a4834" /> <img width="350" height="300" alt="Screenshot 2026-07-15 150603" src="https://github.com/user-attachments/assets/cc833fc7-fec2-43b3-94eb-b44d929c4a02" />
 
 ### Check
 
-![Check](images/check.png)
+<img width="500" height="400" alt="Schach_check" src="https://github.com/user-attachments/assets/120f8f79-3a8f-4aa4-89f5-2c2032402365" />
 
 ### Checkmate
 
-![Checkmate](images/checkmate.png)
+<img width="500" height="400" alt="Screenshot 2026-07-15 150452" src="https://github.com/user-attachments/assets/6e4db55e-4ebf-4067-86db-e6f4b06bfa71" />
 
 ## Controls
 
