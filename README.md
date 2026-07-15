@@ -32,7 +32,7 @@ No installation is required.
 
 ### Board Designs
 
-<img width="350" height="300" alt="Screenshot 2026-07-15 150513" src="https://github.com/user-attachments/assets/629cedc1-8cbd-46d0-aceb-b9ad297a4834" /> <img width="350" height="300" alt="Screenshot 2026-07-15 150603" src="https://github.com/user-attachments/assets/cc833fc7-fec2-43b3-94eb-b44d929c4a02" />
+<img width="350" height="300" alt="Screenshot 2026-07-15 150513" src="https://github.com/user-attachments/assets/629cedc1-8cbd-46d0-aceb-b9ad297a4834" />   <img width="350" height="300" alt="Screenshot 2026-07-15 150603" src="https://github.com/user-attachments/assets/cc833fc7-fec2-43b3-94eb-b44d929c4a02" />
 
 ### Check
 
