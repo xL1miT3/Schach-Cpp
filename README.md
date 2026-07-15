@@ -28,7 +28,7 @@ No installation is required.
 
 ### Game Overview
 
-<img width="998" height="829" alt="Screenshot 2026-07-15 151123" src="https://github.com/user-attachments/assets/c7746e3e-1310-40b4-822c-c5d8d2a46d4a" />
+<img width="600" height="500" alt="Screenshot 2026-07-15 151123" src="https://github.com/user-attachments/assets/c7746e3e-1310-40b4-822c-c5d8d2a46d4a" />
 
 ### Board Design 1
 
